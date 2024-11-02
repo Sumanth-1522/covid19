@@ -13,8 +13,7 @@ Information about the covid-19 of all usa states
 ## >Change analyze date
 
 ### Information about:
-
-## .Confirmed Cases
-## .Number of Deaths
-## .Recovered Cases
-## .Active Cases
+Confirmed Cases
+Number of Deaths
+Recovered Cases
+Active Cases
